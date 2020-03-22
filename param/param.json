@@ -1,0 +1,7 @@
+{
+	"data_file": "data/even_mnist.csv",
+	"learning_rate": 3e-3,
+	"num_epochs": 40,
+	"display_epochs": 10,
+	"batch_size": 128
+}
